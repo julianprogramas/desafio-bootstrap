@@ -1,6 +1,6 @@
 # desafio-bootstrap
 # coder-julian-calvo
-Desafio- Crear repositorio github
+Desafio- bootstrap github
 
 <h1 align="center">Hi 👋, I'm julian calvo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
